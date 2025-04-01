@@ -23,9 +23,9 @@ As senhas dos usuários são **criptografadas** antes de serem armazenadas no ba
 
 ## ⚙️ **Como Rodar o Projeto**
 ### 🖥️ **Backend (Spring Boot)**
-1. **Clone o repositório**:
+1. **Clone o repositório do backend**:
    ```bash
-   git [clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/404GabrielDev/Java-Angular-Auth/tree/backend)
+   git [clone https://github.com/404GabrielDev/Java-Angular-Auth/tree/backend]
    cd /backend
    ```
 
@@ -36,6 +36,14 @@ As senhas dos usuários são **criptografadas** antes de serem armazenadas no ba
 spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
 ```
+
+---
+
+## 3. *Clone o repositorio Frontend*
+ ```bash
+   git [clone https://github.com/404GabrielDev/Java-Angular-Auth/tree/master]
+   cd /backend
+   ```
 
 ## 2. ##Instale as dependências:
 ```
