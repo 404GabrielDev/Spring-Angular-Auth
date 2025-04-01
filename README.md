@@ -57,27 +57,6 @@ http://localhost:4200
 
 * Ainda não utiliza JWT para autenticação, mas pode ser adicionado futuramente.
 
-´´´bash
-📦 backendangular
-├── 📂 backend
-│   ├── 📂 src/main/java/com/example/auth
-│   │   ├── 📂 controller  # Controllers das rotas
-│   │   ├── 📂 service      # Regras de negócio
-│   │   ├── 📂 repository   # Interfaces do banco de dados
-│   │   ├── 📂 model        # Modelos de entidade
-│   │   ├── 📂 config       # Configuração do Spring Security
-│   │   ├── Application.java  # Ponto de entrada da aplicação
-│   ├── pom.xml  # Dependências do Maven
-│
-├── 📂 frontend
-│   ├── 📂 src/app
-│   │   ├── 📂 components  # Componentes da aplicação
-│   │   ├── 📂 services    # Serviços para comunicação com o backend
-│   │   ├── app.module.ts  # Módulo principal
-│   ├── angular.json  # Configuração do Angular
-│
-└── README.md  # Este arquivo 📄
-´´´
 
 👤 Autor
 Feito por João Gabriel.
