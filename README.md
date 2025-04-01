@@ -66,8 +66,9 @@ http://localhost:4200
 * Ainda não utiliza JWT para autenticação, mas pode ser adicionado futuramente.
 
 
-👤 Autor
-Feito por João Gabriel.
+## 👤 Autor
+
+*Feito por João Gabriel.*
 
 
 
